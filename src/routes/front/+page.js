@@ -5,7 +5,7 @@ export function load() {
     async function getdata() {
         const client = createClient({
             spaceUid: 'test-blog',
-            token: env.TOKEN,
+            token: env.PUBLIC_TOKEN,
             apiType: 'cdn'
         });
     
