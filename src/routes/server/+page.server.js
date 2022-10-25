@@ -1,5 +1,5 @@
 import { createClient } from 'newt-client-js';
-import { env } from '$env/dynamic/private'
+import { env } from '$env/dynamic/private';
 import fetchAdapter from "@vespaiach/axios-fetch-adapter";
 
 export function load() {
