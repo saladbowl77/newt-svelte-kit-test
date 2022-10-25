@@ -1,8 +1,9 @@
 <script>
-    export let num;
+    export let data;
+    console.log(data)
 </script>
 
-<h1>サーバー側で計算。(1+2+3+4)</h1>
-{ num }
+<h1>サーバー側で計算するだけ</h1>
+{data.num}
 
 <a href="/">トップに戻る</a>
