@@ -17,6 +17,6 @@
 	"dependencies": {
 		"@sveltejs/adapter-cloudflare": "^1.0.0-next.39",
 		"@vespaiach/axios-fetch-adapter": "^0.3.1",
-		"newt-client-js": "^3.1.1"
+		"newt-client-js": "^3.2.0"
 	}
 }
